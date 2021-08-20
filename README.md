@@ -1,15 +1,10 @@
-[![Build Status](https://drone.infra.mythx.io/api/badges/ConsenSys/solc-typed-ast/status.svg)](https://drone.infra.mythx.io/ConsenSys/solc-typed-ast)
-[![Coverage](https://codecov.io/gh/ConsenSys/solc-typed-ast/branch/master/graph/badge.svg?token=QDmbaGWza0)](https://codecov.io/gh/ConsenSys/solc-typed-ast)
-[![dependencies Status](https://david-dm.org/ConsenSys/solc-typed-ast/status.svg)](https://david-dm.org/ConsenSys/solc-typed-ast)
-[![devDependencies Status](https://david-dm.org/ConsenSys/solc-typed-ast/dev-status.svg)](https://david-dm.org/ConsenSys/solc-typed-ast?type=dev)
-[![Documentation](https://github.com/ConsenSys/solc-typed-ast/workflows/Build%20and%20release%20docs/badge.svg)](https://consensys.github.io/solc-typed-ast/)
-[![npm](https://img.shields.io/npm/v/solc-typed-ast)](https://www.npmjs.com/package/solc-typed-ast)
-[![npm downloads](https://img.shields.io/npm/dm/solc-typed-ast.svg)](https://www.npmjs.com/package/solc-typed-ast)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
 # solc-typed-ast
 
 A TypeScript package providing a normalized typed Solidity AST along with the utilities necessary to generate the AST (from Solc) and traverse/manipulate it.
+
+```bash
+npm i -g https://github.com/contractshark/solc-typed-ast/releases/download/v5.0.6/solc-typed-ast-5.0.5.tgz
+```
 
 ## Features
 
